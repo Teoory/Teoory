@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berkay ^Teory^ Köksal.</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teoory&label=Profile%20views&color=2fa2b6&style=flat" alt="teoory" /> </p>
-<h3 align="center">Frontend developer from Turkey.</h3>
+<h3 align="center">Fullstack developer from Turkey.</h3>
 <h3 align="center">I'm using MongoExpressReactNode</h3>
 
 
