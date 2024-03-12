@@ -1,3 +1,4 @@
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/Teoory/Teoory/assets/59116823/14732918-c2b6-468e-8e16-1b81698fd4e1)
 <h1 align="center">Hi 👋, I'm Berkay ^Teory^ Köksal.</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teoory&label=Profile%20views&color=2fa2b6&style=flat" alt="teoory" /> </p>
 <h3 align="center">Fullstack developer from Turkey.</h3>
