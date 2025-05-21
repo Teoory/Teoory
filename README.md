@@ -6,6 +6,12 @@
 
 
 <p align="center"> 📫 How to reach me: <a href="mailto:berkay.koksall54@gmail.com">berkay.koksall54@gmail.com</a> or <a href="https://www.linkedin.com/in/berkay-koksal/"> Linkedin</a></p>
+<p align="center">
+<a href="https://github.com/sponsors/Teoory" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/>
+</a>
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -29,3 +35,9 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>
+
+<p align="center">
+<a align="center" href="https://github.com/sponsors/Teoory/button" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-Teoory-orange" alt="Sponsor @Teoory" />
+</a>
+</p>
